@@ -17,5 +17,6 @@ return ('done')
 }
 
 function doWhileLoop(array) {
-
+  do-while 
+  while 
 }
